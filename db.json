@@ -1,10 +1,10 @@
 {
-  "address": [
-    {
-      "post": "https://app.zeus37.ir//post.php",
-      "get": "https://app.zeus37.ir/get.php",
-      "server": "https://app.zeus37.ir/server_none.png",
-      "user": "https://app.zeus37.ir/user_ban.png"
-    }
-  ]
+  "address": [
+    {
+      "post": "https://app.zeus37.ir//post.php",
+      "get": "https://app.zeus37.ir/get.php",
+      "server": "https://app.zeus37.ir/server_none.png",
+      "user": "https://app.zeus37.ir/user_ban.png"
+    }
+  ]
 }
