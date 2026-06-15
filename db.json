@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "http://a.xeus34.ir//2post.php",
-      "get": "http://a.xeus34.ir/2get.php",
-      "server": "http://a.xeus34.ir.ir/server_none.png",
-      "user": "http://a.xeus34.ir/user_ban.png"
+      "post": "https://5.144.131.251//2post.php",
+      "get": "https://5.144.131.251/2get.php",
+      "server": "https://5.144.131.251/server_none.png",
+      "user": "https://5.144.131.251/user_ban.png"
     }
   ]
 }
